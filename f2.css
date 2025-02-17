@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(100deg,#5eaa4b,#837d6b,#3b8d99);
+}
+#b{
+    font-size: xx-large;
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 15px 30px;
+    cursor: pointer;
+}
+.btn{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color: rgb(25, 63, 50);
+}
